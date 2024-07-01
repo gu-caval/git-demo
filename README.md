@@ -8,4 +8,6 @@ This is the first file in this repository.
 Algum texto novo acrescentado aqui. Não importa neste momento o que está sendo escrito.
 Uma coisa que me ocorreu aqui agora é se os acentos serão aceitos.
 
-Outros textos incluídos aqui (na terceira passagem de demonstração do git).
+## Website Contents
+
+1. index.html
